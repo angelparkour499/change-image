@@ -7,10 +7,10 @@ An slideshow that changes the source of the big image by clicking any of the ima
 ---
 
 
-![sample #1](https://github.com/angelparkour499/onhover-image-zoom/blob/master/Sample.png)
-![sample #2](https://github.com/angelparkour499/onhover-image-zoom/blob/master/Sample%202.png)
+![sample #1](https://github.com/angelparkour499/change-image/blob/master/sample.png)
+![sample #2](https://github.com/angelparkour499/change-image/blob/master/Sample%202.png)
 
 ## Responsive sample
-![sample #3]()
+![sample #3](https://github.com/angelparkour499/change-image/blob/master/Sample%203.png)
 
-*Works great with the [onhover image zoom](https://github.com/angelparkour499/onhover-image-zoom)
+*Works great with the [onhover image zoom](https://github.com/angelparkour499/onhover-image-zoom)*
